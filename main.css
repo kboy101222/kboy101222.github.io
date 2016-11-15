@@ -14,7 +14,7 @@ body {
 	margin: 0px;
 	padding: 3px;
 	margin-bottom: 5px;
-	width: 100%;
+	width: 99.7%;
 	background: #3E2723;
 
     -webkit-box-shadow: 2px 2px 2px #212121;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
@@ -121,3 +121,11 @@ body {
 	margin-right: 25%;
 	margin-top: 50px;
 }
+
+@media all and (max-width: 980px) {
+
+    .content .x490{display:none;}
+    .content .x290{display:none;}
+
+}
+
