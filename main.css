@@ -115,3 +115,9 @@ body {
 	color: #FFCCBC;
 	top: 30%
 }
+
+.calendar {
+	margin-left: 30%;
+	margin-right: 25%;
+	margin-top: 50px;
+}
